@@ -1,0 +1,7 @@
+{
+  "version": "0.7.16",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.16.zip",
+  "sha256": "98c2b9d5499f7ff67a245fa0cacc648db9af6177864de24d1453a33b8d76ad15",
+  "notes": "Trade visuals on the chart, live trade box, break-even button, bigger TV alerts position panel, sleep/wake fix",
+  "signature": "9476f7befe50e12b538082e951697f5415791e22a867d5e969979b15d8e9544fee1a60b7aa06393383f67aa4ebe8b9b918a2b685b413950dc88160b84d35570b"
+}
