@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.21.zip",
-  "sha256": "29f3f6229d23df2cbbe42b11327c1af9c3a3a1235114470601365d98c697204d",
-  "notes": "Bots are named ORB 1M and ORB 5M everywhere. Your original ORB bot is now ORB M5 O.G. RP&L shows for any account, bot running or not. The packaged app hides the built-in bots' code.",
-  "signature": "56dafda3e3ada6b3423926d593b97c33bdc50ab2be01c11f34edbdc3c2e2b2f02b5da4cd8b9ea0ab163f8f40b7f4c8b4c849295e8deff0267bf54ba42c0e0608"
+  "version": "0.7.22",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.22.zip",
+  "sha256": "bfda50122979f1808b7e7ecca24269c2deedd81e77ba68e79f466aa7ca269512",
+  "notes": "ORB 5M: London and NY AM switches (per account, work while running). ORB 1M and ORB 5M follow the bot's risk box when it's on $ per trade; new bots start at their own numbers (ORB 1M $535 / 2, ORB 5M $500 / 20).",
+  "signature": "e36f04c01f391cbac4c5f1535ca86a36254eba76a84d09c475647b953f46c2081429b849db79da9c40563f64e6b5576998a608c25eff6f07d5c727dd46656b0d"
 }
