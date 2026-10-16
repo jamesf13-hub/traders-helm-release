@@ -1,7 +1,7 @@
 {
-  "version": "0.7.19",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.19.zip",
-  "sha256": "a8e2264aaf7d489475bf314f12de1975455731ed201340bb083b6ebcdb7ce2c8",
-  "notes": "New ORB 5M bot (The Agent ORB Combined, Asia + New York AM on 5-minute MNQ) with exact stops at Topstep",
-  "signature": "90b8eb71b6f1dfd26225765b43e0b52461c87dd1823612a3814b5cf731f91c87ceb37347db60ba56c75540041695dbef592b7c29fb19fc56672d653bba439d03"
+  "version": "0.7.20",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.20.zip",
+  "sha256": "58aa901e4ae078fef9be85eccaa1302ef0764662d660c1a39975e124a78db163",
+  "notes": "ORB 5M now matches The Agent's TradingView version (1,560 of 1,566 trades): a second trade waits for the bar after the first closes, and a trade opened and closed inside one bar no longer lets it take an extra trade. Script bots can trade their own contract (for gold). ORB 1M handles the December contract roll.",
+  "signature": "fd2dfc97cb3ac0725469dc3d32b010ef6e54161f4ed27681289dcfb9e3d08fbde7a5900ed40103ebb5db6de840f98795220126385340a1d18744b3b6ea365308"
 }
