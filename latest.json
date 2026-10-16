@@ -1,7 +1,7 @@
 {
-  "version": "0.7.17",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.17.zip",
-  "sha256": "dd0de53baadf1c4bfb6a389f043b4bee541273f8f0d31166aba64da08a12e5d6",
-  "notes": "Performance shows the market (NQ, gold\u2026) on every trade, a By market table and a markets filter",
-  "signature": "688916f0327c06dafaf2b0a719fe62ceff2c458b4f42164fdf497469f88c5ff11f820167783942b8ef9f20bae66fb1c78abc1b828a1ac1bc13bac4f8b9c55c07"
+  "version": "0.7.18",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.18.zip",
+  "sha256": "03a915d6b2666151492fc47ea6e4fcf2accb20aae0a800908b6f3a46aed36406",
+  "notes": "New ORB 1M bot (The Agent ORB on 1-minute MNQ) and a clearer message when the alerts port is in use",
+  "signature": "f4a3ea6f5f7b0996ae8f8fcdfec89f7b88c08cb9045bfcb3481fa507c43c0bdad4813b456ea0e1c60f424ef26952ee64374251f90f7c9b287b85803e9e09c909"
 }
