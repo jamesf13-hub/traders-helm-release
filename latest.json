@@ -1,7 +1,7 @@
 {
-  "version": "0.7.23",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.23.zip",
-  "sha256": "e202221554b19b7b51e8f0f721928e2aae81988f460874d411d81493a1770da4",
-  "notes": "Bot stats on My bots (win rate, profit factor, drawdown, months; live trades and backtests). Monthly bot check with a review banner and Keep running.",
-  "signature": "e9340623cb535164cc4e2db8733b65543176863c7d4d515a5aed4044e12ea9c56a81018dbd04db852662b7b355b3ac4bfeb67bef3aae629e52962bb193038705"
+  "version": "0.7.24",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.24.zip",
+  "sha256": "70dedd3f0fb5aed8839d9ac605568561c54081ab8d1e9259e5c026d4cd3a5c76",
+  "notes": "Eval odds (Topstep Combine pass chance, blow-up chance, days to pass) in Bot stats. Bot mix on My bots: stack bots and see the combined curve.",
+  "signature": "51cba2e3f1b65e91e023ac15e9c744944e63f28d0a11d0743cba4944925bdefc8844ac5615ef700282a916d72c780259d068b1c162dbbb75e55b36cfa8d51109"
 }
