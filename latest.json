@@ -1,7 +1,7 @@
 {
-  "version": "0.7.20",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.20.zip",
-  "sha256": "58aa901e4ae078fef9be85eccaa1302ef0764662d660c1a39975e124a78db163",
-  "notes": "ORB 5M now matches The Agent's TradingView version (1,560 of 1,566 trades): a second trade waits for the bar after the first closes, and a trade opened and closed inside one bar no longer lets it take an extra trade. Script bots can trade their own contract (for gold). ORB 1M handles the December contract roll.",
-  "signature": "fd2dfc97cb3ac0725469dc3d32b010ef6e54161f4ed27681289dcfb9e3d08fbde7a5900ed40103ebb5db6de840f98795220126385340a1d18744b3b6ea365308"
+  "version": "0.7.21",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.21.zip",
+  "sha256": "29f3f6229d23df2cbbe42b11327c1af9c3a3a1235114470601365d98c697204d",
+  "notes": "Bots are named ORB 1M and ORB 5M everywhere. Your original ORB bot is now ORB M5 O.G. RP&L shows for any account, bot running or not. The packaged app hides the built-in bots' code.",
+  "signature": "56dafda3e3ada6b3423926d593b97c33bdc50ab2be01c11f34edbdc3c2e2b2f02b5da4cd8b9ea0ab163f8f40b7f4c8b4c849295e8deff0267bf54ba42c0e0608"
 }
