@@ -1,7 +1,7 @@
 {
-  "version": "0.7.18",
-  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.18.zip",
-  "sha256": "03a915d6b2666151492fc47ea6e4fcf2accb20aae0a800908b6f3a46aed36406",
-  "notes": "New ORB 1M bot (The Agent ORB on 1-minute MNQ) and a clearer message when the alerts port is in use",
-  "signature": "f4a3ea6f5f7b0996ae8f8fcdfec89f7b88c08cb9045bfcb3481fa507c43c0bdad4813b456ea0e1c60f424ef26952ee64374251f90f7c9b287b85803e9e09c909"
+  "version": "0.7.19",
+  "url": "https://raw.githubusercontent.com/jamesf13-hub/traders-helm-release/main/releases/orb-bot-0.7.19.zip",
+  "sha256": "a8e2264aaf7d489475bf314f12de1975455731ed201340bb083b6ebcdb7ce2c8",
+  "notes": "New ORB 5M bot (The Agent ORB Combined, Asia + New York AM on 5-minute MNQ) with exact stops at Topstep",
+  "signature": "90b8eb71b6f1dfd26225765b43e0b52461c87dd1823612a3814b5cf731f91c87ceb37347db60ba56c75540041695dbef592b7c29fb19fc56672d653bba439d03"
 }
